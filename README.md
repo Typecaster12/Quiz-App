@@ -1,8 +1,7 @@
-# React + Vite
+The Quiz App using React,
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Topics Covered:
+  Hooks like, useRef, useState, useEffect.
+  Array methods, map etc.
+  eventHandeling, and topics like arrow function and other stuffs.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
